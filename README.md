@@ -12,3 +12,5 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25" height="25"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> 
 </p>
+
+<p><a href="https://luigig34.github.io/Portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
