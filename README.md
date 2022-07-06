@@ -1,7 +1,7 @@
 # Hi there, my name is Luigi 👋
 ### i'm a Web Developper 💻
 
-#### 💫 About Me:
+### 💫 About Me:
 🔭 I’m currently working on my degree<br>🌱 I’m currently learning how a PHP MVC works<br>⚡ I'm passionate about web development
 
 
