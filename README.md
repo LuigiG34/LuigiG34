@@ -23,6 +23,10 @@
 ---
 ![Visitor Count](https://profile-counter.glitch.me/LuigiG34/count.svg)
 
+---
+[![](https://visitcount.itsvg.in/api?id=LuigiG34&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <p><a href="https://luigig34.github.io/Portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
 
 
