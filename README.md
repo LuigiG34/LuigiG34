@@ -21,10 +21,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/LuigiG34/count.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
----
-[![](https://visitcount.itsvg.in/api?id=LuigiG34&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <p><a href="https://luigig34.github.io/Portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
