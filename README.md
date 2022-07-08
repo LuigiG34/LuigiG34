@@ -2,7 +2,7 @@
 ### i'm a Web Developper 💻
 
 ### 💫 About Me:
-🔭 I’m currently working on my degree<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development
+🔭 I’m currently working on my degree (Web Developper | Specialised in cybersercurity)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development
 
 
 ### 🌐 Socials:
