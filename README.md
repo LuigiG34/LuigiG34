@@ -5,7 +5,7 @@
 🔭 I’m currently working on my degree (Web Developper | Specialised in cybersercurity)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] luigi677#9126 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-gdm/) 
+[Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)luigi677#9126 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-gdm/) 
 
 
 ### 💻 Tech Stack:
