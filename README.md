@@ -2,7 +2,7 @@
 ### i'm a Web Developper 💻
 
 ### 💫 About Me:
-🔭 I’m currently working on my degree (Web Developper | Specialised in Conception)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
+🔭 I’m currently working on my degree (Web Developper | Specialised in Conception)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness<br>👀 Looking forward to learning skills in frameworks like Symfony or React.js.<br>🔵 I would like to learn more about WordPress and all of its plug-ins.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-gdm/) 
