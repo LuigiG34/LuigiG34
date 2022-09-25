@@ -2,13 +2,15 @@
 ### i'm a Web Developper 💻
 
 ### 💫 About Me:
-🔭 I’m currently working on my degree (Web Developper | Specialised in Conception)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness<br>👀 Looking forward to learning skills in frameworks like Symfony or React.js.<br>🔵 I would like to learn more about WordPress and all of its plug-ins.
-
+🔭 I’m currently working on my degree (Web Developper | Specialised in Conception)<br>🏗️ I'm also working on a social network for independant construction workers<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-gdm/) 
 
 
 ### 💻 Tech Stack:
+![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
