@@ -8,8 +8,6 @@
 
 
 ### 💻 Tech Stack:
-<img src="PAINT.png" alt="Alt text" title="Optional title" max-width="100px" max-height="50px">
-
 
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
 
