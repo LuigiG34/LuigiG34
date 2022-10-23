@@ -35,4 +35,4 @@
 ---
 
 
-<p><a href="https://luigig34.github.io/Portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
+<p><a href="https://luigig34.github.io/my-portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
