@@ -34,5 +34,7 @@
 
 ---
 
-<img src="portfolio.png" align="center">
+<p align="center">
+  <img src="portfolio.png" align="center" width="200" height="200">
+</p>
 <p><a href="https://luigig34.github.io/my-portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
