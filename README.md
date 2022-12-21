@@ -1,6 +1,8 @@
 # Hi there, my name is Luigi 👋
 ### i'm a Web Developper 💻
 
+<img src='https://komarev.com/ghpvc/?username=LuigiG34&color=A85BC8&style=plastic'>
+
 ### 💫 About Me:
 🔭 I’m looking forward to learning Symfony<br>🏗️ I'm also working on opening my own WordPress Freelance company<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
 ### 🌐 Socials:
@@ -33,8 +35,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-<p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=LuigiG34&color=A85BC8&style=plastic'>
-</strong> </p>
 
 <p><a href="https://luigig34.github.io/my-portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
