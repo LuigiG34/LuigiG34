@@ -20,7 +20,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7A0000?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-7A0000?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-7A0000?style=for-the-badge&logo=jquery&logoColor=white)
 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-18007A?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-18007A?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![figma](https://img.shields.io/badge/Figma-18007A?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-18007A?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-18007A?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![figma](https://img.shields.io/badge/Figma-18007A?style=for-the-badge&logo=figma&logoColor=white)
 
 ![git](https://img.shields.io/badge/GIT-7A0000?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-7A0000?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-7A0000?style=for-the-badge&logo=Insomnia&logoColor=white)
 
