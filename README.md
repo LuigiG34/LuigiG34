@@ -26,12 +26,12 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?user=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuigiG34&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?user=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophiesname
 ![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
