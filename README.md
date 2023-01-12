@@ -11,10 +11,10 @@
 
 ### 💻 Tech Stack:
 
-![Prestashop](https://img.shields.io/badge/prestashop-FF7676?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-FF4646?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=FF0000&logo=Elementor&logoColor=FFFFFF&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-9C0000?style=for-the-badge&logo=WooCommerce&logoColor=white)
+![Prestashop](https://img.shields.io/badge/prestashop-FF7676?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-FF4646?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=FF0000&logo=Elementor&logoColor=FFFFFF&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-9C0000?style=for-the-badge&logo=woo&logoColor=white)
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-FFBB65?style=for-the-badge&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-FF8E00?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-BD6A00?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Symfony](https://img.shields.io/badge/Symfony-0F005A?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) 
 
