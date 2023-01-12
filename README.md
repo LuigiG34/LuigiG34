@@ -11,18 +11,18 @@
 
 ### 💻 Tech Stack:
 
-![Prestashop](https://img.shields.io/badge/prestashop-7D85FD?style=for-the-badge&logo=prestashop&logoColor=black) ![WORDPRESS](https://img.shields.io/badge/Wordpress-7D85FD?style=for-the-badge&logo=wordpress&logoColor=black) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=7D85FD&logo=Elementor&logoColor=black&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-7D85FD?style=for-the-badge&logo=woo&logoColor=black)
+![Prestashop](https://img.shields.io/badge/prestashop-18007A?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-18007A?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=18007A&logo=Elementor&logoColor=white&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-18007A?style=for-the-badge&logo=woo&logoColor=white)
 
 
-![HTML5](https://img.shields.io/badge/html5-4B58FF?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-4B58FF?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-4B58FF?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-7A0000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-7A0000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-7A0000?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Symfony](https://img.shields.io/badge/Symfony-0014FF?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-0014FF?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-0014FF?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-0014FF?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-0014FF?style=for-the-badge&logo=Apache&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-18007A?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-18007A?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-18007A?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-18007A?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-18007A?style=for-the-badge&logo=Apache&logoColor=white) 
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-000CBA?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000CBA?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-000CBA?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7A0000?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-7A0000?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-7A0000?style=for-the-badge&logo=jquery&logoColor=white)
 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-18007A?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-18007A?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![figma](https://img.shields.io/badge/Figma-18007A?style=for-the-badge&logo=figma&logoColor=white)
 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![git](https://img.shields.io/badge/GIT-7A0000?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-7A0000?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-7A0000?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 # 📊 GitHub Stats:
 
