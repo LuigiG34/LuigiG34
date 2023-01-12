@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack:
 
-![Prestashop](https://img.shields.io/badge/prestashop-A5ACFF?style=for-the-badge&logo=prestashop&logoColor=black) ![WORDPRESS](https://img.shields.io/badge/Wordpress-A5ACFF?style=for-the-badge&logo=wordpress&logoColor=black) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=A5ACFF&logo=Elementor&logoColor=black&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-A5ACFF?style=for-the-badge&logo=woo&logoColor=black)
+![Prestashop](https://img.shields.io/badge/prestashop-656FFF?style=for-the-badge&logo=prestashop&logoColor=black) ![WORDPRESS](https://img.shields.io/badge/Wordpress-656FFF?style=for-the-badge&logo=wordpress&logoColor=black) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=656FFF&logo=Elementor&logoColor=black&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-656FFF?style=for-the-badge&logo=woo&logoColor=black)
 
 
 ![HTML5](https://img.shields.io/badge/html5-4B58FF?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-4B58FF?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-4B58FF?style=for-the-badge&logo=javascript&logoColor=white)
