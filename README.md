@@ -29,7 +29,7 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🏆 GitHub Trophiesname
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
