@@ -1,8 +1,6 @@
 # Hi there, my name is Luigi 👋
 ### i'm a Web Developper 💻
 
-<img src='https://komarev.com/ghpvc/?username=LuigiG34&color=lightgrey&style=flat-square'>
-
 ### 💫 About Me:
 🔭 I’m looking forward to learning Symfony<br>🏗️ I'm also working on opening my own WordPress Freelance company<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
 ### 🌐 Socials:
