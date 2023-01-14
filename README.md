@@ -2,7 +2,7 @@
 ### i'm a Web Developper 💻
 
 ### 💫 About Me:
-🔭 I’m looking forward to learning Symfony<br>🏗️ I'm also working on opening my own WordPress Freelance company<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
+🔭 I’m learning Symfony with Openclassrooms<br>🏗️ I'm also working on opening my own WordPress Freelance company<br>⚡ I'm passionate about web development<br>📊 I'm very interested in financial markets and buisness
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-gdm/) 
 
