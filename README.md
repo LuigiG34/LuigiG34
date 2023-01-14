@@ -22,7 +22,7 @@
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-008692?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-008692?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![figma](https://img.shields.io/badge/Figma-008692?style=for-the-badge&logo=figma&logoColor=white)
 
-![git](https://img.shields.io/badge/GIT-020092?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-020092?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-020092?style=for-the-badge&logo=Insomnia&logoColor=white)
+![git](https://img.shields.io/badge/GIT-020092?style=for-the-badge&logo=git&logoColor=C7C7FF) ![PostMan](https://img.shields.io/badge/Postman-020092?style=for-the-badge&logo=Postman&logoColor=C7C7FF) ![Insomnia](https://img.shields.io/badge/Insomnia-020092?style=for-the-badge&logo=Insomnia&logoColor=C7C7FF)
 
 # 📊 GitHub Stats:
 
