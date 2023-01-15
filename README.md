@@ -1,7 +1,7 @@
 # Hi there, my name is Luigi 👋
 ### i'm a Web Developper 💻
 
-### 🎓 Degrees
+### 🎓 My Degrees :
 ![BAC](https://img.shields.io/badge/BAC%20TECHNOLOGIQUE-AFAFAF?style=for-the-badge&logoColor=A3A3A3)
 
 ![DWWM1](https://img.shields.io/badge/CCP1%20DEVELOPPEUR%20WEB%20ET%20WEB%20MOBILE%20(FRONT%20END)-818181?style=for-the-badge&logoColor=white)
