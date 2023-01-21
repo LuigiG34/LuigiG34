@@ -42,5 +42,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-
-<p><a href="https://luigig34.github.io/my-portfolio/" target="_blank" rel="noreferrer">➡️ Check out my projects ⬅️</a></p>
