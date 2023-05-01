@@ -2,13 +2,13 @@
 ### i'm a Web Developper 💻
 
 ### 🎓 My Degrees :
-![BAC](https://img.shields.io/badge/BAC%20TECHNOLOGIQUE-AFAFAF?style=for-the-badge&logoColor=A3A3A3)
+![BAC](https://img.shields.io/badge/BAC%20TECHNOLOGIQUE-020092?style=for-the-badge&logoColor=A3A3A3)
 
-![DWWM1](https://img.shields.io/badge/CCP1%20DEVELOPPEUR%20WEB%20ET%20WEB%20MOBILE%20(FRONT%20END)-818181?style=for-the-badge&logoColor=white)
+![DWWM1](https://img.shields.io/badge/CCP1%20DEVELOPPEUR%20WEB%20ET%20WEB%20MOBILE%20(FRONT%20END)-020092?style=for-the-badge&logoColor=white)
 
-![DWWM2](https://img.shields.io/badge/CCP2%20DEVELOPPEUR%20WEB%20ET%20WEB%20MOBILE%20(BACK%20END)-585858?style=for-the-badge&logoColor=white)
+![DWWM2](https://img.shields.io/badge/CCP2%20DEVELOPPEUR%20WEB%20ET%20WEB%20MOBILE%20(BACK%20END)-020092?style=for-the-badge&logoColor=white)
 
-![CDA](https://img.shields.io/badge/CCP1%20CONCEPTEUR%20DEVELOPPEUR%20APPLICATION-272727?style=for-the-badge&logoColor=white)
+![CDA](https://img.shields.io/badge/CCP1%20CONCEPTEUR%20DEVELOPPEUR%20APPLICATION-020092?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -21,13 +21,13 @@
 
 ### 💻 Tech Stack:
 
-![Prestashop](https://img.shields.io/badge/prestashop-020092?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-020092?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=920000&logo=Elementor&logoColor=white&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-020092?style=for-the-badge&logo=woo&logoColor=white)
+![Prestashop](https://img.shields.io/badge/prestashop-020092?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-020092?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=020092&logo=Elementor&logoColor=white&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-020092?style=for-the-badge&logo=woo&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-020092?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-020092?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-020092?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Symfony](https://img.shields.io/badge/Symfony-020092?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-020092?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-928D00?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-020092?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-020092?style=for-the-badge&logo=Apache&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-020092?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-020092?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-020092?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-020092?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-020092?style=for-the-badge&logo=Apache&logoColor=white) 
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-009217?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-020092?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-020092?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-020092?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-020092?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-020092?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-020092?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-020092?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![figma](https://img.shields.io/badge/Figma-020092?style=for-the-badge&logo=figma&logoColor=white)
 
