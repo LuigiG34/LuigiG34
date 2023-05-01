@@ -23,15 +23,15 @@
 
 ![Prestashop](https://img.shields.io/badge/prestashop-020092?style=for-the-badge&logo=prestashop&logoColor=white) ![WORDPRESS](https://img.shields.io/badge/Wordpress-020092?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=020092&logo=Elementor&logoColor=white&label=) ![WooCommerce](https://img.shields.io/badge/WooCommerce-020092?style=for-the-badge&logo=woo&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-020092?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-020092?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-020092?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-020092?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-020092?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-020092?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-020092?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Symfony](https://img.shields.io/badge/Symfony-020092?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-020092?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-020092?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-020092?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-020092?style=for-the-badge&logo=Apache&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-020092?style=for-the-badge&logo=Symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-020092?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-020092?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-020092?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-020092?style=for-the-badge&logo=Apache&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-020092?style=for-the-badge&logo=Composer&logoColor=white) 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-020092?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-020092?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-020092?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-020092?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-020092?style=for-the-badge&logo=Adobe%20XD&logoColor=white) ![figma](https://img.shields.io/badge/Figma-020092?style=for-the-badge&logo=figma&logoColor=white)
 
-![git](https://img.shields.io/badge/GIT-020092?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-020092?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-020092?style=for-the-badge&logo=Insomnia&logoColor=white)
+![git](https://img.shields.io/badge/GIT-020092?style=for-the-badge&logo=git&logoColor=white) ![PostMan](https://img.shields.io/badge/Postman-020092?style=for-the-badge&logo=Postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-020092?style=for-the-badge&logo=Insomnia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-020092?style=for-the-badge&logo=Docker&logoColor=white)
 
 ---
 
