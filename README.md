@@ -10,7 +10,7 @@
 
 ![CDA](https://img.shields.io/badge/CCP1%20CONCEPTEUR%20DEVELOPPEUR%20APPLICATION-020092?style=for-the-badge&logoColor=white)
 
----
+--- 
 
 ### 💫 About Me:
 🔭 I’m learning Symfony with Openclassrooms<br>🏗️ I'm also working part-time on WordPress and Prestashop<br>📊 I'm very interested in financial markets and buisness
