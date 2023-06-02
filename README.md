@@ -21,7 +21,7 @@
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
 
-![Wordpress](https://img.shields.io/badge/Wordpress-00749c?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)  ![Prestashop](https://img.shields.io/badge/Prestashop-df0067?style=flat-square&logo=prestashop&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-00749c?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=flat-square&logo=git&logoColor=white) 
 
