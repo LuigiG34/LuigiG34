@@ -23,7 +23,7 @@
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-00749c?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)  ![Prestashop](https://img.shields.io/badge/Prestashop-df0067?style=flat-square&logo=prestashop&logoColor=white)
 
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=flat-square&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=flat-square&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
