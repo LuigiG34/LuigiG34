@@ -33,7 +33,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=Commits,Issues,PullRequest)
+![](https://github-profile-trophy.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=Commits,Issues,PullRequest) ![](https://hacked-github-stat-trophies-master.vercel.app/?username=LuigiG34&theme=radical&no-frame=true&no-bg=false&margin-w=4&title=AllSuperRank,Joined2020,MultiLanguage)
 
 
 ---
