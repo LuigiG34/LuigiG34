@@ -1,5 +1,3 @@
-<img src="My Flyer.png" width="100%">
-
 # Hi there, my name is Luigi 👋
 ### i'm a Web Developper 💻
 
