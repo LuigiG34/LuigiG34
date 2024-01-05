@@ -6,7 +6,9 @@
 ---
 
 # 💫 About Me:
-🔭 I’m learning Symfony with Openclassrooms<br>🏗️ I'm also working part-time on WordPress, Symfony and Prestashop<br>📊 I'm very interested in financial markets and buisness
+📜 I hold an Associate's degree (or equivalent) in Web and Mobile Web Development, followed by a Bachelor's degree (or equivalent) in Design & Development of PHP/Symfony applications.
+<br>💼 I'm currently working for Enimad mainly on WordPress & Symfony projects
+<br>📊 I'm very interested in financial markets and buisness
 
 
 ## 🌐 Socials:
