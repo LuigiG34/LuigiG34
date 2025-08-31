@@ -7,7 +7,6 @@
 📜 I hold an Associate's degree (or equivalent) in Web and Mobile Web Development
 <br>📜 followed by a Bachelor's degree (or equivalent) in Design & Development of PHP/Symfony applications.
 <br>💼 I'm currently working for Enimad mainly on WordPress & Symfony projects
-<br>📊 I'm very interested in financial markets and buisness
 
 
 ## 🌐 Socials:
