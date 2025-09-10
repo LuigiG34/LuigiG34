@@ -27,6 +27,9 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white) 
 
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![MangoPay](https://img.shields.io/badge/mangopay-ef715b?style=for-the-badge&logo=mangopay&logoColor=white) ![Axepta](https://img.shields.io/badge/axepta%20bnp-007348?style=for-the-badge&logo=axeptabnp&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuigiG34&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=LuigiG34&theme=dark&hide_border=false)<br/>
