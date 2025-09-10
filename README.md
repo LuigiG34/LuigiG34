@@ -1,5 +1,5 @@
 # Hi there, my name is Luigi 👋
-### i'm a Web Developper 💻
+### i'm a Developer 💻
 
 ---
 
