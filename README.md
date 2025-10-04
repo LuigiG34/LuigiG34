@@ -24,7 +24,7 @@
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![git](https://img.shields.io/badge/git-f1502f?style=for-the-badge&logo=git&logoColor=white) ![Githu Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![MangoPay](https://img.shields.io/badge/mangopay-ef715b?style=for-the-badge&logo=mangopay&logoColor=white) ![Axepta](https://img.shields.io/badge/axepta%20bnp-007348?style=for-the-badge&logo=axeptabnp&logoColor=white)
 
